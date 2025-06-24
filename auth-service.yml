@@ -1,2 +1,4 @@
+server:
+  port: 10200
 test:
   value: 5000
